@@ -24,6 +24,14 @@ This renders to the following:
 
 <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.xaddas}}">xaddas</a> is my favorite tool for building websites.
 
-<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.xaddash}}">ख़द्दस​</a> is my favorite tool for building websites.
+<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.xaddas}}">ख़द्दस​ xaddas</a> is my favorite tool for building websites.
+
+<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.xaddas}}">xaddas ख़द्दस​</a> is my favorite tool for building websites.
+
+<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.xaddas}}">ख़द्दस​</a> is my favorite tool for building websites.
+
+<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.xaddas}}"> ख़द्दस​</a> is my favorite tool for building websites.
+
+<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.xaddas}}">ख़द्दस ​</a> is my favorite tool for building websites.
 
 {% include links.html %}

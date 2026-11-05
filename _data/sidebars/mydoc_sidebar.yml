@@ -255,24 +255,11 @@ entries:
 
   - title: Folklore
   - output: web, pdf
-  - folderitems:
-
-      subfolders:
-      - title: Kũṛux with English translataion
-        output: web, pdf
-        subfolderitems:
-
-        - title: The Lodhas and the Assurs
-          url: /lodhar_dara_assurar.html
-          output: web, pdf
-
-      - title: कुँड़ुख़ और हिंदी अनुवाद
-        output: web, pdf
-        subfolderitems:
-
-        - title: लोधा और असुर
-          url: /h_lodhar_dara_assurar.html
-          output: web, pdf
+    
+    folderitems:
+    - title: The Lodhas and the Assurs
+      url: /lodhar_dara_assurar.html
+      output: web, pdf
 
   - title: Tag archives
     output: web

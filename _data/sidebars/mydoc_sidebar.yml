@@ -254,7 +254,7 @@ entries:
       output: web, pdf
 
   - title: Folklore
-  - output: web
+  - output: web, pdf
   - folderitems:
 
       subfolders:
@@ -263,7 +263,7 @@ entries:
         subfolderitems:
 
         - title: The Lodhas and the Assurs
-          url: /lodhar_dara_assurar
+          url: /lodhar_dara_assurar.html
           output: web, pdf
 
       - title: कुँड़ुख़ और हिंदी अनुवाद
@@ -271,7 +271,7 @@ entries:
         subfolderitems:
 
         - title: लोधा और असुर
-          url: /lodhar_dara_assurar_h
+          url: /h_lodhar_dara_assurar.html
           output: web, pdf
 
   - title: Tag archives

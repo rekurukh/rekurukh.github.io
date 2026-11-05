@@ -253,6 +253,27 @@ entries:
       url: /mydoc_troubleshooting.html
       output: web, pdf
 
+  - title: Folklore
+  - output: web, pdf
+  - folderitems:
+
+      subfolders:
+      - title: Kũṛux with English translataion
+        output: web, pdf
+        subfolderitems:
+
+        - title: The Lodhas and the Assurs
+          url: /lodhar_dara_assurar
+          output: web, pdf
+
+      - title: कुँड़ुख़ और हिंदी अनुवाद
+        output: web, pdf
+        subfolderitems:
+
+        - title: लोधा और असुर
+          url: /lodhar_dara_assurar_h
+          output: web, pdf
+
   - title: Tag archives
     output: web
     folderitems:

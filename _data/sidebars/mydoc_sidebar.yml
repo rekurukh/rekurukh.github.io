@@ -254,7 +254,7 @@ entries:
       output: web, pdf
 
   - title: Folklore
-  - output: web, pdf
+    output: web, pdf
     
     folderitems:
     - title: The Lodhas and the Assurs
